@@ -1,5 +1,5 @@
 # hello-world
-I learned exactly as much HTML and CSS as I needed to tweak Wordpress templates. It turns out that's not a lot of knowledge when it comes to programming. I'm here to improve on that.
+Years ago, I learned exactly as much HTML and CSS as I needed to tweak Wordpress templates. It turns out that's not a lot of programming knowledge. I'm here to fix that.
 
 I like puppies, kittens, pretentious craft beers, and long walks on the beach.
 
